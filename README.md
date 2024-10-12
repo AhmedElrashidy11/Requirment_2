@@ -13,5 +13,7 @@ This is a basic web application built with Flask, HTML, and CSS. The app accepts
 
 # Project Files Overview
 app.py: Contains the main Flask application that handles the routes and form processing.
+
 /templates/index.html: The HTML file responsible for rendering the form and displaying the response.
+
 /templates/style.css: Basic CSS file to style the web page
